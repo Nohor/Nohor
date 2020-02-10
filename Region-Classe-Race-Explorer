@@ -1,0 +1,23 @@
+**Zone de depart des races**
+
+Zone depart DK : 10% (bloqué du a un bug de suite de quete a verifier quand reparer)
+Zone Depart Pandaren 1% (Bug a la seconde quete, pas moyen de continuer)
+Zone depart Troll : Quete 10-20% (des bugs empechant d'avancer)
+Zone depart Tauren: Quete 30% (bug apparu au nouveau patch. A refaire pour verifier une fois les bug corrigé)
+Zone depart Gnome : 10% (un bug de quete de décontamination défaillant bloque la suite des autres quetes, a voir quand débuguer)
+Zone Depart Undead : 20-25% (bloqué du a des bug apparut après la dernière MAJ, a re verifier)
+(Ryarru) : Zone depart Gobelin : 20% (Bloqué via un bug empechant la suite de quete)
+(Ryarru) : Zone depart Orc : 95% OK (du au quete de classe ou quete peut etre loupée)
+Zone: Depart Elfe de la nuit Sombrevallon / Darnassus: Quete: 95% OK (au cas ou je suis passé a côté de certaines quêtes dont 
+des quêtes de classe)
+
+**Autre zone que les depart**
+
+Zone Carmine : Quete 70% (plus on avance plus il se trouve des bug de PNj + Quete)
+
+**Classes Testées**
+
+Chasseur Maitre des betes = Trop puissant + Le Pet disparait quand on monte de niveau sinon RAS
+Druide Feral = "Morsure Feroce" non fonctionnel sinon RAS
+(Ryarru) : Guerrier 
+(Ryarru) : Paladin
